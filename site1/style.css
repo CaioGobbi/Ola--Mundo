@@ -4,3 +4,9 @@ body {
     background-color: aquamarine;
     font: normal 20px Arial;
 }
+h1 {
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
